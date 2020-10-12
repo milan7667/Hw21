@@ -1,0 +1,9 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+<!DOCTYPE suite SYSTEM "Smoke suite" configfailurepolicy="continue">
+        <suite name>="one" value="Test two parameter"/>
+        <test name="Main test">
+            <classes>
+                <class name="IphoneSearchTest"/>
+        </classes>
+        </test>
+ </suite>
